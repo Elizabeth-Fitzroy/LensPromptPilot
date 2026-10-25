@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lens Prompt Pilot</string>
+    <string name="accessibility_service_description">Google レンズの画面要素を確認し、設定した定型プロンプトを検索欄へ入力します。開始操作は利用者が行います。</string>
+</resources>
